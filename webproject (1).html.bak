@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>home page</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+
+        .container{
+            height: 80px;
+            width: 100%;
+            background-color: aqua;
+        }
+        .navbar{
+            word-spacing: 20px;
+            font-size: 20px;
+            float: right;
+            margin-top: -50px;
+            position: static;
+            cursor: pointer;
+        
+
+        }
+
+		
+		.box{
+		height:900px;
+		width:90%;
+		background-color:red;
+		
+		margin-left:70px;
+		
+		}
+		.box1{
+		height:350px;
+		width:90%;
+		background-color:blue;
+		margin-left:60px;
+		margin-top:-50px;
+		}
+		
+		.img1{
+		
+		margin-left:50px;
+		height:130px;
+		width:10%;
+		padding:10px;
+		margin-top:100px;
+		
+		
+		
+		
+		
+		}
+	
+		.text1
+		{
+		background-color:white;
+		height:250px;
+		width:60%;
+		margin-left:370px;
+		margin-top:-100px;
+		
+		
+		
+		}
+		h2{
+		font-size:20px;
+		font-family:cursive;
+		margin-left:50px;
+		}
+		
+		
+		
+		
+	
+		
+		h1{
+		margin-left:120px;
+		font-size:40px;
+		color:black;
+		font-family:cursive;
+		margin-top:20px;
+		
+		
+		}
+		.bgimg{
+		
+		background-size:cover;
+		background-color:yellow;
+		height:500px;
+		width:100%;
+		}
+		
+
+    </style>
+</head>
+<body><div class="container"><div id="logo"><img src="images.jpg" style=" height: 80px;width: 130px;"></div>
+    
+    
+    <div class="navbar">
+
+    <a href=""><B>HOME</B></a>
+    <a href=""><b>ABOUT-US</b></a>
+    <a href=""><b>CONTACT-US</b></a>
+    <a href="login page"><B>LOGIN</B></a>
+    <a href=""><B>FEEDBACK</B></a>
+    </div></div>
+	
+	<div class="bgimg">
+	<img src="">fr</img>
+	</div>
+	
+	
+
+	
+	
+   
+    <div class="box">
+	
+	<h1>Latest Model</h1>
+	
+	<div class="box1">
+	
+	<div class="img1">
+	<img src="C:\Users\Aditya Jaiswar\Downloads\tesla car for project.jpg"></img><br>
+	<h2>Tesla</h2>
+		</div>
+	
+	<div class="text1">
+	
+	</div>
+	
+	</div>
+	<br>
+	<br>
+	<div class="box1">
+	
+	<div class="img1">
+	<img src="C:\Users\Aditya Jaiswar\Downloads\tesla car for project.jpg"></img><br>
+	<h2>Tesla</h2>
+		</div>
+	
+	<div class="text1">
+	
+	</div>
+	
+	</div>
+	
+	
+	</div>
+	
+	</div>
+</body>
+</html>

@@ -1,0 +1,250 @@
+<!doctype html>
+<html>
+<head>
+<title>
+</title>
+<style>
+.maindiv{
+height:1500px;
+width:100%;
+//background-color:grey;
+}
+.container{
+height:50px;
+width:100%;
+position:fixed;
+//background-color:#00008B;
+
+
+}
+
+.navbar{
+font-size:20px;
+float:right;
+word-spacing:15px;
+margin-top:15px;
+color:white;
+margin-right:50px;
+
+}
+.bcimg{
+background-image:url('c4.jpg');
+background-repeat:no-repeat;
+background-size:cover;
+height:550px;
+width:100%;
+}
+h1{
+margin-top:-350px;
+font-size:50px;
+color:white;
+font-family:elephant;
+}
+
+.images{
+height:570px;
+width:100%;
+//background-color:red;
+margin-top:180px;
+display:flex;
+justify-content:space-between;
+
+}
+.carimg1{
+height:400px;
+width:350px;
+//background-color:pink;
+margin-top:130px;
+
+
+
+
+
+
+}
+#f{
+font-size:30px;
+color:black;
+}
+.carimg2{
+height:400px;
+width:350px;
+justify-content:center;
+//background-color:pink;
+margin-top:130px;
+
+
+
+}
+#l{
+font-size:30px;
+color:black;
+}
+.carimg3{
+height:400px;
+width:350px;
+justify-content:center;
+//background-color:yellow;
+margin-top:130px;
+
+}
+
+#j{
+font-size:30px;
+color:black;
+}
+
+h3{
+color:white;
+font-size:30px;
+margin-top:300px;
+}
+footer{
+width:100%;
+height:350px;
+background-color:black;
+display:flex;
+justify-content:space-between;
+}
+footer .foot{
+width:300px;
+height:350px;
+//background-color:pink;
+margin-top:27px;
+
+}
+h4{
+color:white;
+font-size:30px;
+margin-top:-5px;
+}
+h6{
+font-size:20px;
+margin-top:-30px;
+color:white;
+}
+h5{
+font-size:20px;
+color:white;
+margin-top:-40px;
+
+
+}
+li{
+font-size:20px;
+color:#ffE4C4;
+}
+.line{
+height:35px;
+width:100%;
+background-color:black;
+color:#ffE4C4;
+font-size:20px;
+}
+a{
+text-decoration:none;
+color:white;
+}
+</style>
+</head>
+
+<body>
+<div class="maindiv">
+<div class="container">
+<div class="navbar">
+<a href="file:///C:/Users/Aditya%20Jaiswar/Desktop/web%20project/home.html">Home</a>
+<a href="file:///C:/Users/Aditya%20Jaiswar/Desktop/web%20project/aboutpage.html">About</a>
+<a href="file:///C:/Users/Aditya%20Jaiswar/Desktop/web%20project/contact%20us.html">Contact</a>
+<a href="file:///C:/Users/Aditya%20Jaiswar/Desktop/web%20project/login%20page.html">Login</a>
+<a href="file:///C:/Users/Aditya%20Jaiswar/Desktop/web%20project/logout.html">Logout</a>
+</div>
+</div>
+<div class="bcimg">
+</div>
+
+<h1><marquee><b>A trusted and reputable name	Making your cars fast</b></marquee></h1><br><br>
+
+ <div class="images">
+ 
+
+ <div class="carimg1">
+ <img src="Blue Bmw Sedan.jpg" style="height:300px;width:350px;">
+ <span id="f"><b><i>Blue Bmw Sedan</i></b></span><br>
+ <p style="float:right;font-size:20px;margin-top:-6px;"><big>F</big>ounder:Karl Rapp, Franz Josef Popp, Camillo Castiglioni, Gustav Otto<br>
+ <b><i>F</i></b>ounded:<u> 1939</u></p>
+ 
+ 
+ </div>
+ <div class="carimg2">
+ <img src="Black Toyota 4-door Truck.jpg" style="height:300px;width:350px;">
+ <span id="l"><b><i>Black Toyota 4-door Truck</i></b></span>
+ <p style="margin-left:140px;font-size:20px;margin-top:5px;"><big>F</big>ounder:Kiichiro Toyoda<br>
+ <b><i>F</i></b>ounded:<u> 1963</u></p>
+ 
+ </div>
+ <div class="carimg3">
+ <img src="C:\Users\Aditya Jaiswar\Desktop\web project\j3.jpg" style="height:300px;width:350px;">
+ <span id="j"><b><i>jaguar</i></b></span><br>
+ <p style="margin-left:100px;font-size:20px;margin-top:5px;"><big>O</big>wner:Jaguar Land Rover<br>
+ <b><i>F</i></b>ounded:<sub>26</sub> October<sub> 1933</sub></p>
+ 
+ </div>
+</div>
+
+<br>
+<footer>
+
+<div class="foot">
+<h4>Offers and deals:</h4>
+<li>Compare car</li>
+<li>Car Finance</li>
+<li>Car Lessing</li>
+<li>Sell my car</li>
+<li>Insurance</li>
+</div>
+<div class="foot">
+<h4>Popular Brands:</h4>
+<li>Rolls-Royce</li>
+<li>Lamborghini</li>
+<li>Jaguar</li>
+<li>Toyota-Truck</li>
+<li>Renault</li>
+<li>Skoda</li>
+<li>Mercedes Benz</li>
+
+</div>
+<div class="foot">
+<h4>Partnership</h4>
+<li>Mr.Aditya Jaiswar</li>
+<li>Mr.Rohit Bari</li>
+<li>Mr.Vyankat Rathod</li>
+<li>Ms.Pooja Kamble</li>
+<li>Ms.Ashwini Dhole</li>
+
+</div>
+<div class="foot">
+<h4>Help & Support</h4><br>
+<h6>Mon-Sat:</h6>
+<h5>10:00am to 7:00pm<h5><br>
+<h6>Call:</h6>
+<h5>989794XXXX</h5><br>
+<h6>Email:</h6>
+<h5>contact@mynewcar.in</h5>
+</div>
+
+	
+</footer>
+
+<div class="line"><center><u><i>Copyright</i></u> 2022 by Car Showroom.All Rights Reserved.....</center></div>
+
+
+</div>
+
+
+
+
+
+</body>
+</html>
+</div>
+ 
